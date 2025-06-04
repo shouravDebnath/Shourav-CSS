@@ -1,0 +1,48 @@
+*{
+    color:rgb(193, 220, 20);
+}
+h1{
+    color:red;
+}
+h3{
+    color: green;
+}
+p{
+    color :rgb(255, 191, 0);
+    
+}
+button{
+    color:dodgerblue;
+    background-color: navajowhite;
+}
+body{
+    background-color: #121110;
+}
+#headingOne{
+    color :chocolate
+}
+.ball{
+    color :aqua;
+}
+#box{
+    background-color :blue;
+}
+.heading{
+    color :red;
+}
+button{
+    background-color :green;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align:left;
+}
+h4{
+    text-align: right;
+}
+h5{
+    text-align:center ;
+    text-decoration: line-through;
+}

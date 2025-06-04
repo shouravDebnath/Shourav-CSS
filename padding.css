@@ -1,0 +1,18 @@
+ #one{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid brown;
+    padding-left:24px ;
+    padding-top: 20px;
+    padding-right: 16px;
+    padding-bottom: 22px;
+}
+#tow{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid chartreuse;
+    padding: 1px 2px 3px 4px;
+    margin: 50px;
+}

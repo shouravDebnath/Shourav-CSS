@@ -1,0 +1,24 @@
+#a{
+    font-weight:normal;
+}
+#b{
+    font-weight: bold;
+}
+#c{
+    font-weight: bolder;
+}
+#d{
+    font-weight: lighter;
+}
+#e{
+    font-weight: 100;
+}
+#f{
+    font-weight:250 ;
+}
+#g{
+    font-weight: 600;
+}
+#h{
+    font-weight: 900;
+}
