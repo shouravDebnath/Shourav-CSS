@@ -4,4 +4,14 @@ div{
     background-color: aqua;
     border: 2px solid black;
     display: inline-block;
+} 
+
+#box1{
+    background-image: url("animal.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("animal.jpg");
+    background-size: contain;
+
 }

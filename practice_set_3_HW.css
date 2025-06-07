@@ -1,0 +1,32 @@
+div{
+    height: 500px;
+    width: 300px;
+    background-color: black;
+}
+#cir1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    top:50px;
+    left:100px;
+}
+#cir2{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    border-radius: 50%;
+    position: relative;
+    top:100px;
+    left:100px;
+}
+#cir3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    position: relative;
+    top:150px;
+    left:100px;
+}
